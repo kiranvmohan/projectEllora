@@ -12,13 +12,13 @@ A full-stack community management platform built for apartment/residential commu
 - 📢 **Announcements system** — admins can post updates visible to all residents
 - 👥 **Member management** — add, view, and manage resident accounts
 - 📱 **Responsive UI** built with React and Bootstrap
-- ☁️ **Production deployment** — frontend on Netlify, backend on Railway, with proper CORS and environment configuration
+- ☁️ **Production deployment** — frontend on Netlify, backend on render, with proper CORS and environment configuration
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend:** React.js, React Router, Bootstrap
+**Frontend:** React.js, React Router, tailwind CSS
 **Backend:** Node.js, Express.js
 **Database:** MongoDB with Mongoose
 **Auth:** JSON Web Tokens (JWT)
